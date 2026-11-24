@@ -12,9 +12,9 @@ import os
 import sys
 
 PITCH = (
-    "We sell proof that a house is not haunted: estate agents pay us $300 "
-    "to sweep a 'cursed' home, because buyers knock thousands off any "
-    "house with a ghost story attached."
+    "We certify houses as unhaunted: for $300 a surveyor and two mediums "
+    "sweep the rooms, and estate agents pay gladly \u2014 one stamped "
+    "certificate erases the discount every ghost story knocks off a sale."
 )
 
 MAX_CHARS = 200
